@@ -1,0 +1,10 @@
+Este proyecto esta echo con fines educativos para poder mostrar la instalación de
+del complemento a zinjai de la librería
+MiniWin (c) Pau Fernández, licencia MIT: http://es.wikipedia.org/wiki/MIT_License
+
+esta librería esta diseñada para crear juegos simples como el de el ejemplo
+en el que hemos recreado el juego de Espace Invader con la ayuda del compilador 
+zinjai y la librería MiniWin
+
+crisrod25@gmail.com
+crisrod25@live.com
